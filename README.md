@@ -1,5 +1,4 @@
-## Привет! Я Антон 👋
-
+## Привет! Я Антон <img src="assets/cat_waving.gif" width="45" valign="middle"/>
 ### Backend / Automation / ML-разработчик из Москвы. Студент Московского Авиационного Института (МАИ). 
 ---
 
