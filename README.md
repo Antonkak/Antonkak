@@ -42,7 +42,7 @@ mindmap
 
 Я когда все сломалось, а до защиты 5 минут
 
-<img src="assets/akira.gif" width="300" valign="middle"/>
+<img src="assets/higuruma-jujutsu-kaisen.gif" width="300" valign="middle"/>
 <!--
 **Antonkak/Antonkak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
