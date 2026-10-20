@@ -36,7 +36,7 @@ mindmap
 ### 📫 Как со мной связаться
 * GitHub: [Antonkak](https://github.com/Antonkak)
 * Telegram: [@kartonkaton](https://t.me/kartonkaton)
-* Email: anakalashnikov@mai.education
+* Email: antakalashnikov@gmail.com
 
 
 
